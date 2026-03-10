@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Reckless fire 2011",
+  "base_artist": "井出泰彰",
+  "createdAt": "2026-03-10T14:14:37.514228Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reckless fire",
+      "artist": "Ide yosuoki",
+      "has_synced": false,
+      "path": "select/01_Reckless_fire_Ide_yosuoki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reckless fire",
+      "artist": "Yasuaki Ide",
+      "has_synced": false,
+      "path": "select/02_Reckless_fire_Yasuaki_Ide.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reckless Fire",
+      "artist": "Ide, Yasuaki",
+      "has_synced": false,
+      "path": "select/03_Reckless_Fire_Ide,_Yasuaki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reckless Fire",
+      "artist": "井出泰彰",
+      "has_synced": false,
+      "path": "select/04_Reckless_Fire_井出泰彰.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reckless Fire (TV Full Size version)",
+      "artist": "Ide, Yasuaki",
+      "has_synced": false,
+      "path": "select/05_Reckless_Fire_(TV_Full_Size_version)_Ide,_Yasuaki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reckless Fire (TV Full Size version)",
+      "artist": "井出泰彰",
+      "has_synced": false,
+      "path": "select/06_Reckless_Fire_(TV_Full_Size_version)_井出泰彰.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reckless fire",
+      "artist": "Ide Yasuaki",
+      "has_synced": false,
+      "path": "select/07_Reckless_fire_Ide_Yasuaki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reckless fire",
+      "artist": "井出泰彰",
+      "has_synced": false,
+      "path": "select/pl_01_Reckless_fire_井出泰彰.txt"
+    }
+  ]
+}
